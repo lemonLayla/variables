@@ -57,6 +57,8 @@ fn_name = '20th in april'
 print('the day of month my birthday falls on is', fn_name)
 fn_name = '-7'
 print(' a negative number is', fn_name)
+fn_name = '0.125'
+print('a decimal', fn_name)
 
 # 1.3 | Overwriting Variables
 #
