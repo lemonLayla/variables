@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: Layla jones
+# date:  7/2/2021
 #
 # description: <fill in>
 
@@ -22,9 +22,15 @@
 # Example Code
 example_name = 'elia'
 print('EXAMPLE: my name is', example_name)
-
+print('')
 # WRITE CODE BELOW
-
+fn_name = 'layla'
+print(' my name is ', fn_name)
+fn_name = '04/20/06'
+print(' my birthday is', fn_name)
+fn_name ='raccoon'
+print('i like ', fn_name)
+print('')
 
 
 # 1.2 | Variable Creation | Integers / Floats
@@ -45,8 +51,12 @@ print('EXAMPLE: my name is', example_name)
 #   5) Print each variable, describing the value you print.
 
 # WRITE CODE BELOW
-
-
+fn_name ='7'
+print(' my favorite number is', fn_name )
+fn_name = '20th in april'
+print('the day of month my birthday falls on is', fn_name)
+fn_name = '-7'
+print(' a negative number is', fn_name)
 
 # 1.3 | Overwriting Variables
 #
